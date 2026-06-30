@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "309441738"
+  ],
+  "name": "邮轮搜索工具",
+  "description": "一个强大的邮轮搜索工具，可帮助用户按关键词快速找到所需的邮轮产品。"
+}
